@@ -29,3 +29,16 @@
 ## الاستخدامات المستقبلية
 
 يمكن لهذا المشروع أن يكون مفيدًا في تطوير أدوات تعليمية تدعم تعلم اللغة العربية وتحسين مهارات الكتابة لدى المتعلمين، بالإضافة إلى تحسين التفاعل بين اللهجات المختلفة والفصحى، مما يعزز فهم النصوص العربية بشكل أوسع وأدق.
+
+## صور من الموقع
+
+إليك بعض الصور من واجهة المشروع لعرض كيفية عمله ونتائج التقييم:
+
+![WhatsApp Image 2024-11-09 at 10 02 29](https://github.com/user-attachments/assets/59482fe5-e7fe-46b8-bb5f-af1b616b822b)
+![WhatsApp Image 2024-11-09 at 10 02 52](https://github.com/user-attachments/assets/2ec74584-1594-4f96-a921-8f4d34ba4618)
+![WhatsApp Image 2024-11-09 at 10 03 56](https://github.com/user-attachments/assets/c7713ff1-ea30-4657-80b2-dae0c1667b0b)
+![WhatsApp Image 2024-11-09 at 10 05 26](https://github.com/user-attachments/assets/ba1b36bc-fb8b-41ae-91d8-3f2cd6b3f89d)
+
+
+
+
