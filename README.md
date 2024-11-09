@@ -32,7 +32,6 @@
 
 ## صور من الموقع
 
-إليك بعض الصور من واجهة المشروع لعرض كيفية عمله ونتائج التقييم:
 
 ![WhatsApp Image 2024-11-09 at 10 02 29](https://github.com/user-attachments/assets/59482fe5-e7fe-46b8-bb5f-af1b616b822b)
 ![WhatsApp Image 2024-11-09 at 10 02 52](https://github.com/user-attachments/assets/2ec74584-1594-4f96-a921-8f4d34ba4618)
